@@ -11,10 +11,6 @@ using MySql.Data.MySqlClient;
 using System.IO;
 using System.IO.Compression;
 using System.Net;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Launcher
 {
@@ -236,6 +232,11 @@ namespace Launcher
             private void Login_Start_Off_Click(object sender, EventArgs e)
             {
 
+            }
+
+            private void button1_Click_1(object sender, EventArgs e)
+            {
+               
             }
 
         }
