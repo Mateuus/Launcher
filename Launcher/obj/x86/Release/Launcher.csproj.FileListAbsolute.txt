@@ -1,0 +1,10 @@
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\bin\Release\Launcher.exe
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\bin\Release\Launcher.pdb
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\bin\Release\ps\Launcher.resources.dll
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\obj\x86\Release\Launcher.Launcher.resources
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\obj\x86\Release\Launcher.Properties.Resources.resources
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\obj\x86\Release\Launcher.Launcher.ps.resources
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\obj\x86\Release\Launcher.csproj.GenerateResource.Cache
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\obj\x86\Release\ps\Launcher.resources.dll
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\obj\x86\Release\Launcher.exe
+C:\Users\Mateuus\Documents\Visual Studio 2010\Projects\Launcher\Launcher\obj\x86\Release\Launcher.pdb
